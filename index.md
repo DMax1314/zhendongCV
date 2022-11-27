@@ -1,4 +1,4 @@
-# Max Zhendong Li
+# Zhendong Li (Max)
 
 Undergraduate student (graduating 2023),  
 [QianWeiChang College](https://qwc.shu.edu.cn/),  
@@ -19,87 +19,83 @@ Optimization (Nonlinear, Integer and almost everything!)
 Optimal Control (Especially PDE)  
 Machine Learning  
 
-# News  
-[Aug 2022] Joining Mitacs research intern program hosted by Polytechic de Montreal, Canada, under instruction of [Prof.Antoine Legrain](https://cerc-datascience.polymtl.ca/person/dr-antoine-legrain/), with research topic in simulation about taxi sharing (dial a ride problem).  
+<!-- # News  
+[Aug 2022] Joining Mitacs research intern program hosted by Polytechic de Montreal, Canada, under supervision of [Prof.Antoine Legrain](https://cerc-datascience.polymtl.ca/person/dr-antoine-legrain/), with research topic in simulation about taxi sharing (dial a ride problem).  
 
 [April 2022] Joining SAIC Foundation Tongji Joint Intelligent Driving Project Research Team in Tongji University to conduct computer vision application in autonomous driving, responsible for high-precision semantic segmentation research on road surface features such as lane lines and zebra crossings, under supervision of [Prof. Chao Wang](https://see.tongji.edu.cn/info/1154/9075.htm).  
 
-[Aug 2021] Completed Data 8 course on remote summer session at UC Berkeley and obtained Grade A in the class, where I finished an 8-week course and two data analysis project regarding genetic science and semantic natural language processing respectively.    
+[Aug 2021] Completed Data 8 course on remote summer session at UC Berkeley and obtained Grade A in the class, where I finished an 8-week course and two data analysis project regarding genetic science and semantic natural language processing respectively.     -->
 
 # Education
-## Tongji University
-B.Eng, Communication Engineering, College of Electronic and Information Engineering,  
+## Shanghai University
+B.Sc, Mathematics and Applied Mathematics, QianWeiChang College (Elite Honor Program),  
 Sep 2019 - Jul 2023, Shanghai, China. 
 
-## University of California, Berkeley
-Summer Session, Data Science, Division of Computing, Data Science, and Society  
-Jun 2021 - Aug 2021, Berkeley, CA  
 
 # Experience 
 ## Research Experience
 
-### Tongji University
-**SITP(Student Innovation Training Program)**  
-*Need Predication of Sharing Bicycle based on LSTM Neural Network/Research*, Member  
-Oct 2019 - Mar 2021  
-- Optimized the structure and parameters of the model based on time and space features with accuracy improvement from 60% to 80%+  
-- Classified datasets combining with interdisciplinary research methods (e.g. biological methods)  
-- Defined regional criterion including the 1000m-radius area centering on metro stations, malls and schools  
-- Applied principles in counting from hemacytometry to the marginal data-set point  
+### Shanghai University
+**Shanghai Univeristy Operator Research and Optimization Open Lab**
 
-**SAIC Foundation Tongji Joint Intelligent Driving Project Research Team**  
 Research Assistant  
-Feb 2022 - present  
-- Responsible for high-precision semantic segmentation research on road surface features such as lane lines and zebra crossings;  
-- Combining the latest work and research in the field to improve the model, propose and verify a suitable detection and segmentation scheme.  
+Sept. 2020 - present  
+- Developed an optimal control problem solver to solve nonlinear optimal control problem based on the control parameterization method with Julia and used some methods such as AdaGrad and adaptive switching time technique;  
+- Designed an inexact Uzawa algorithm framework based on the special structure by using dual form of the ellipse optimal control problem and its nonlinear saddle point problems;
+- Solved  Graph Matching problem in Integer PDE optimal control problems with revised ADMM.
 
-### University of California, Irvine   
-Research Intern, Remote,  
-Mar 2022 - Jun 2022
- -  Reviewed a number of papers related to texutal entailment and studied on Repurposing Entailment for Multi-Hop Question Answering Tasks——Multee, which is a general architecture that can effectively use entailment models for multi-hop QA tasks, and:
-      + reproduced results in the paper; 
-      + attempted to add named entity annotations using Stanza(a NLP tool from Stanford) to OpenbookQA dataset, and used the annotated dataset to fine-tune the multee model;
-      + studied on ESIM(Enhanced LSTM for Natural Language Inference) and developed the idea of merging Multee and ESIM; 
-  - Started analysis on the parse tree templates and:
-      + tried tagging the subject and object, parse tree and dependency relations using Stanford CoreNLP tool;
-      + studied on parse tree structures under Penn Tree Bank annotations and tried to delevop workable parse tree and dependency templates for predicate calculus and first-order inference system, having referred to some previous work;
-      + trying to implement ideas on the OpenbookQA dataset.
+### Polytechique de Montreal   
+Research Intern,  
+Aug. 2022 - Nov. 2022
 
-## Professional Experience
-### Ping’an Securities, Shanghai
-Jul 2021 - Aug 2021  
-Data Analysis Assistant, Summer Intern  
- - Engaged in daily analysis work on active clients of stock investment MCN contents via framework in Python  
- - Completed daily report and submit to the supervisor  
+ -  Assisted in development of a simulation tool in python to test the dispatch process and developed greedy algorithms for the Dial a Ride problem in NYC;
+ -  Implemented dedicated algorithms to compute compatibility matrices and developed visualization tools.
+
+### The University of Melbourne
+Research Intern,  
+April 2022 - Present
+
+- Used origin and destination of the line and selected new stops to get a `better' bus line. Modeled it as an Orienteering Problem with more real constraints also mixed the point of interest, the convenience of transferring to the subway and other things as score in data set；
+- Used SVM method to reduce the complexity of the network to solve the problem faster with the heuristics solver;
+- Our solution will have a chance to conduct real experiments in Tongzhou District, Beijing.
+
+### Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+Research Associate,  
+June 2021 - April 2022
+- Proposed a novel pivot selecting rules to Simplex method for Mixed Integer Programming, by employing Reinforcement Learning techniques;
+- Learned the basic knowledge about integer programming and reinforcement learning;
+- Tested classical methods such as Bland's rule and steepest edge rule and on Vehicle Routing Problem.
+
+## Academic Presentations
+### Brief Analysis of Alternating Multiplier Direction Method
+The Fourth Shanghai University Undergraduate Academic Forum (Top 6)
+- Shanghai, China----Nov. 2021
+### The Analysis of Different Cyclists in Individual and Team Time Trials: Based on the Power Profile
+MAA MathFest 2022
+
+- Philadelphia, USA----Aug. 2022
 
 # Awards and Honors
-2nd Scholarship of Excellent Undergraduate Student in 2021-2022 Academic Year  
-Outstanding Student Leader, Oct 2020  
+SHU Scholarship for new students - Sept. 2019 
 
+SHU First-class Study Scholarship - Sept. 2020 
+
+2020 MCM/ICM S Award - April 2020 
+
+2021 MCM/ICM S Award - April 2021
+
+SHU Second-class Study Scholarship  - Sept. 2021 
+        
+First-class of Shanghai University Undergraduate Academic Forum(Top 6) - Nov. 2021
+        
+Canada Mitacs & China Scholarship Council - Mar. 2022
+        
 # Language Skills
 
-**English**, Fluent  （TOEFL 100, CET4: 671）  
+**English**, Fluent  （IELTS 6.5）  
 **Chinese (Mandarin)**, Native  
-**Chinese (Cantonese)**, Native  
-**Korean**, Advanced  
-**Japanese**, Advanced  
 
-# People
-## Friends
-[Owen Huang MSBA@Carnegie Mellon University](https://www.linkedin.com/in/haohuang99/)  
-[Yanjie Ze UG@SJTU CSE](https://yanjieze.com)  
-[Leo Zhe Wang UG@HKPolyU](https://zhe-wang0018.github.io/)  
-[Fanpeng Meng UG@Huazhong UST](https://mfp0610.github.io/)
 
-# Hobby
-Music(various kind of genres!), golf, travelling, civil aviation, language study
-
-# For aviation fun: flightradar24 records and upcoming flights!
-### Flight record since 2012  
-<a href="https://my.flightradar24.com/Alex4seasons"><img src="https://banners-my.flightradar24.com/Alex4seasons.png" alt="My Flightdiary.net profile" /></a>  
-### Upcoming flights  
-<a href="https://my.flightradar24.com/Alex4seasons-future"><img src="https://banners-my.flightradar24.com/Alex4seasons-future.png" alt="My Flightdiary.net profile" /></a>  
-
-# Visitors
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=gvanrDP9UeoFohRR-9KCMLyeFR1K-b9nXsfpibiZvcM"></script>  
-
+# Technical Skills
+**Programming Languages**: MATLAB, Python, Julia, C++, C, SQL, HTML, LaTeX
+**Optimization Software**: Gurobi, SCIP
