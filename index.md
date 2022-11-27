@@ -70,6 +70,8 @@ June 2021 - April 2022
 ### Brief Analysis of Alternating Multiplier Direction Method
 The Fourth Shanghai University Undergraduate Academic Forum (Top 6)
 - Shanghai, China----Nov. 2021
+
+
 ### The Analysis of Different Cyclists in Individual and Team Time Trials: Based on the Power Profile
 MAA MathFest 2022
 
